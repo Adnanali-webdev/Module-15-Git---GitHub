@@ -1,0 +1,21 @@
+Q1. Explain what version control is and its importance in software development
+
+Q2. Explain the Git Workflow, including the staging area, working directory, and repository
+
+Q3. Explain what .gitignore is and why it’s important in version control
+
+
+
+
+Q4. Briefly explain what GitHub is and how it facilitates collaboration and version control also name some
+alternatives to GitHub.
+
+
+Q5. Describe the process of contributing to any open-source project on GitHub in a step-by-step manner.
+
+
+Q6. Deploy Tailwind projects named Youtube, slack, and Gmail clones on GitHub pages and share the
+deployed link of those three. Expected output - Live hosted URL Link of your deployed respective website with
+GitHub pages.
+
+*Note - For this task, you can use HTML and CSS for now. Tailwind CSS is not required at this stage.
